@@ -29,5 +29,6 @@
         <data android:scheme="sumsubexpocamerasdk53"/>
       </intent-filter>
     </activity>
+    <meta-data android:name="com.google.mlkit.vision.DEPENDENCIES" android:value="face,barcode_ui" />
   </application>
 </manifest>
